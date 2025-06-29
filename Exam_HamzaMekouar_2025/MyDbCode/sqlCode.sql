@@ -17,7 +17,7 @@ CREATE TABLE Livre (
     FOREIGN KEY (editeur_id) REFERENCES Editeur(id) ON DELETE CASCADE
 );
 
--- Table: Auteur
+-- Table:  Auteur
 CREATE TABLE Auteur (
     id INT PRIMARY KEY AUTO_INCREMENT,
     nom VARCHAR(50) NOT NULL,
