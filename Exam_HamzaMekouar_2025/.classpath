@@ -7,10 +7,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="Driver_DB/mysql-connector-java-5.1.46.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ElecTro-AS/OneDrive/Desktop/JAVA JFRAME/HAMZA-MEKOUAR-EXAM/LibraryManagement/Driver_DB/mysql-connector-j-9.2.0.jar">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ElecTro-AS/OneDrive/Desktop/JAVA JFRAME/Driver/mysql-connector-j-9.2.0/mysql-connector-j-9.2.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
